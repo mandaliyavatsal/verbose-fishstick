@@ -1,0 +1,539 @@
+{
+  "style": "jazz",
+  "tempo": 120,
+  "duration": 10,
+  "note_count": 59,
+  "notes": [
+    {
+      "pitch": 60,
+      "velocity": 0.694,
+      "start_time": 0.0,
+      "duration": 0.15,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 48,
+      "velocity": 0.3,
+      "start_time": 0.0,
+      "duration": 2.0,
+      "octave": 3,
+      "note_name": "C3",
+      "frequency": 130.8127826502993
+    },
+    {
+      "pitch": 52,
+      "velocity": 0.4,
+      "start_time": 0.0,
+      "duration": 2.0,
+      "octave": 3,
+      "note_name": "E3",
+      "frequency": 164.81377845643496
+    },
+    {
+      "pitch": 55,
+      "velocity": 0.5,
+      "start_time": 0.0,
+      "duration": 2.0,
+      "octave": 3,
+      "note_name": "G3",
+      "frequency": 195.99771799087463
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.613,
+      "start_time": 0.125,
+      "duration": 1.2,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.493,
+      "start_time": 0.25,
+      "duration": 0.15,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.535,
+      "start_time": 0.375,
+      "duration": 1.2,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.595,
+      "start_time": 0.5,
+      "duration": 0.6,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.40900000000000003,
+      "start_time": 0.875,
+      "duration": 0.3,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.46,
+      "start_time": 1.5,
+      "duration": 1.2,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.655,
+      "start_time": 1.625,
+      "duration": 0.3,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.535,
+      "start_time": 1.75,
+      "duration": 0.3,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.637,
+      "start_time": 1.875,
+      "duration": 0.6,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.6759999999999999,
+      "start_time": 2.0,
+      "duration": 0.3,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 58,
+      "velocity": 0.3,
+      "start_time": 2.0,
+      "duration": 2.0,
+      "octave": 3,
+      "note_name": "A#3",
+      "frequency": 233.08188075904496
+    },
+    {
+      "pitch": 62,
+      "velocity": 0.4,
+      "start_time": 2.0,
+      "duration": 2.0,
+      "octave": 3,
+      "note_name": "D3",
+      "frequency": 293.6647679174076
+    },
+    {
+      "pitch": 53,
+      "velocity": 0.5,
+      "start_time": 2.0,
+      "duration": 2.0,
+      "octave": 3,
+      "note_name": "F3",
+      "frequency": 174.61411571650194
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.6819999999999999,
+      "start_time": 2.125,
+      "duration": 0.15,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.41800000000000004,
+      "start_time": 2.25,
+      "duration": 0.15,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.6759999999999999,
+      "start_time": 2.875,
+      "duration": 1.2,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.487,
+      "start_time": 3.0,
+      "duration": 0.3,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.55,
+      "start_time": 3.25,
+      "duration": 0.3,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.475,
+      "start_time": 3.5,
+      "duration": 0.6,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.598,
+      "start_time": 3.625,
+      "duration": 1.2,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.571,
+      "start_time": 3.75,
+      "duration": 0.3,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.631,
+      "start_time": 3.875,
+      "duration": 1.2,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.643,
+      "start_time": 4.0,
+      "duration": 1.2,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 62,
+      "velocity": 0.3,
+      "start_time": 4.0,
+      "duration": 2.0,
+      "octave": 3,
+      "note_name": "D3",
+      "frequency": 293.6647679174076
+    },
+    {
+      "pitch": 65,
+      "velocity": 0.4,
+      "start_time": 4.0,
+      "duration": 2.0,
+      "octave": 3,
+      "note_name": "F3",
+      "frequency": 349.2282314330039
+    },
+    {
+      "pitch": 57,
+      "velocity": 0.5,
+      "start_time": 4.0,
+      "duration": 2.0,
+      "octave": 3,
+      "note_name": "A3",
+      "frequency": 220.0
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.649,
+      "start_time": 4.25,
+      "duration": 0.15,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.631,
+      "start_time": 4.375,
+      "duration": 0.3,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.5529999999999999,
+      "start_time": 4.5,
+      "duration": 1.2,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.448,
+      "start_time": 5.5,
+      "duration": 0.3,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.604,
+      "start_time": 5.625,
+      "duration": 0.6,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 66,
+      "velocity": 0.3,
+      "start_time": 6.0,
+      "duration": 2.0,
+      "octave": 3,
+      "note_name": "F#3",
+      "frequency": 369.9944227116344
+    },
+    {
+      "pitch": 57,
+      "velocity": 0.4,
+      "start_time": 6.0,
+      "duration": 2.0,
+      "octave": 3,
+      "note_name": "A3",
+      "frequency": 220.0
+    },
+    {
+      "pitch": 61,
+      "velocity": 0.5,
+      "start_time": 6.0,
+      "duration": 2.0,
+      "octave": 3,
+      "note_name": "C#3",
+      "frequency": 277.1826309768721
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.643,
+      "start_time": 6.125,
+      "duration": 0.3,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.667,
+      "start_time": 6.5,
+      "duration": 0.6,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.41500000000000004,
+      "start_time": 6.625,
+      "duration": 0.6,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.655,
+      "start_time": 6.75,
+      "duration": 1.2,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.61,
+      "start_time": 6.875,
+      "duration": 0.3,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.619,
+      "start_time": 7.0,
+      "duration": 1.2,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.538,
+      "start_time": 7.125,
+      "duration": 1.2,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.5409999999999999,
+      "start_time": 7.5,
+      "duration": 0.15,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.601,
+      "start_time": 7.875,
+      "duration": 0.6,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 48,
+      "velocity": 0.3,
+      "start_time": 8.0,
+      "duration": 2.0,
+      "octave": 3,
+      "note_name": "C3",
+      "frequency": 130.8127826502993
+    },
+    {
+      "pitch": 52,
+      "velocity": 0.4,
+      "start_time": 8.0,
+      "duration": 2.0,
+      "octave": 3,
+      "note_name": "E3",
+      "frequency": 164.81377845643496
+    },
+    {
+      "pitch": 55,
+      "velocity": 0.5,
+      "start_time": 8.0,
+      "duration": 2.0,
+      "octave": 3,
+      "note_name": "G3",
+      "frequency": 195.99771799087463
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.403,
+      "start_time": 8.25,
+      "duration": 0.6,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.478,
+      "start_time": 8.375,
+      "duration": 0.3,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.577,
+      "start_time": 8.5,
+      "duration": 0.6,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.517,
+      "start_time": 8.875,
+      "duration": 1.2,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.511,
+      "start_time": 9.125,
+      "duration": 1.2,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.604,
+      "start_time": 9.25,
+      "duration": 1.2,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.6579999999999999,
+      "start_time": 9.5,
+      "duration": 0.15,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 72,
+      "velocity": 0.517,
+      "start_time": 9.75,
+      "duration": 0.6,
+      "octave": 5,
+      "note_name": "C5",
+      "frequency": 523.2511306011972
+    },
+    {
+      "pitch": 60,
+      "velocity": 0.631,
+      "start_time": 9.875,
+      "duration": 0.6,
+      "octave": 4,
+      "note_name": "C4",
+      "frequency": 261.6255653005986
+    }
+  ]
+}
